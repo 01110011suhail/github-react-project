@@ -16,8 +16,9 @@ body{
   width: 380px;
   background-color: pink;
   text-align: center;
-  border: 10px solid black;
+  border: 7px solid black;
   border-radius: 10% 40% 10% 40%/40% 10% 40% 10%;
+
 
 }
 
