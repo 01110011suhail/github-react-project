@@ -1,0 +1,30 @@
+body{
+  background: linear-gradient(20deg,gold,white, gold,gold);
+  width: 100%;
+
+}
+
+/*cat animation*/
+
+
+.op{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.emi-container{
+  width: 380px;
+  background-color: aliceblue;
+  text-align: center;
+  border: 20px solid gold;
+  border-radius: 10% 40% 10% 40%/40% 10% 40% 10%;
+
+}
+
+.inputs >input{
+  width: 250px;
+  height: 30px;
+  text-align: center;
+  outline: none;
+}
+
