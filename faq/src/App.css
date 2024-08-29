@@ -1,0 +1,19 @@
+.app{
+    background-color: yellowgreen;
+    text-align: center;
+}
+
+.faq-box{
+    background-color: violet;
+    margin: 20px;
+    padding: 10px;
+    width: 50%;
+    text-align: center;
+}
+
+.que{
+    font-size: 24px;
+}
+.ans{
+    background-color: rgb(240, 162, 240);
+}
